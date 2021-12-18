@@ -5,8 +5,6 @@ channels:
 - khalilahmed724/label/khalilahmed724
 dependencies:
 - ipympl
-- ipywidgets
-- jupyterlab=2
 - matplotlib
 - nbresuse
 - numpy
